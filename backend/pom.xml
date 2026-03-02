@@ -72,3 +72,4 @@ powershell -NoProfile -Command "$p=@'
 
 </project>
 '@; Set-Content -Encoding UTF8 backend\pom.xml $p"
+
